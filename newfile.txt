@@ -1,1 +1,5 @@
+added functions to initialize
+
 newfile will contain auxilliary functions
+
+added functions

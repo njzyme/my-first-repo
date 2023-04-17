@@ -1,5 +1,10 @@
 Here lies initial configuration
 
-I have added the first line of file1.txt add add add
+I have changed the line I first added
+
+something
 
 I am adding functionality
+
+something
+something
